@@ -4,6 +4,7 @@ The model replicates what is shown in the paper titled Siamese Neural Networks f
 Goal is to construct and train the Neural network by applying one shot learning approach. Finally create a Face Recognition web application using streamlit. We can also deploy this app to any cloud service at end.
 # Steps to be taken
 These are the following steps to be taken to reach our goal. We will see them on by one.
+  
   3.1. Virtual Environment Setup
   3.2. Install & Import Dependencies
   3.3. Collect Dataset
