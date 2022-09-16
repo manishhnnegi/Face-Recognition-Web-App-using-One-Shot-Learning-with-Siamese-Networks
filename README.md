@@ -1,5 +1,10 @@
 # Face-Recognition-Web-App-using-One-Shot-Learning-with-Siamese-Networks
 The model replicates what is shown in the paper titled Siamese Neural Networks for One-shot Image Recognition. Used Tensorﬂow 2 with data augmentation technique, OpenCV &amp; streamlit.
+
+For detailed explanation of project kindly checkout my complet article
+https://medium.com/@manishnegi101/face-recognition-web-app-using-one-shot-learning-with-siamese-networks-6e918bd5823f
+
+
 # Goal
 Goal is to construct and train the Neural network by applying one shot learning approach. Finally create a Face Recognition web application using streamlit. We can also deploy this app to any cloud service at end.
 # Steps to be taken
